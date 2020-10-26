@@ -1,0 +1,30 @@
++ Log file initialized
++ Running the USB installer...
++ Getting online news...
++ Getting online news done ( 07.10.2020 - Kon-Boot 3.6 released (updates for macOS and Windows)! - HTTPS://KON-BOOT.COM)
++ Listing all USB drives 
++ 0000 drive=5 physicalDrive=2 path=\\?\usbstor#disk&ven_kingston&prod_datatraveler_2.0&rev_1.00#1831bf28243bf41092ba29b8&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} serial=
+
++ Drive was mapped to F: 
+- Error: you have not selected the target usb drive
++ User picked: PhysicalDrive=2 MappedTo: F:| Path=\\?\usbstor#disk&ven_kingston&prod_datatraveler_2.0&rev_1.00#1831bf28243bf41092ba29b8&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
++ Format process returned 0x800701b1
+- Fatal process returned 0x800701b1
+- Please try using manual installation read kon-bootUSB\README.TXT
++ User picked: PhysicalDrive=2 MappedTo: F:| Path=\\?\usbstor#disk&ven_kingston&prod_datatraveler_2.0&rev_1.00#1831bf28243bf41092ba29b8&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
++ Format process returned 0x00000000
++ USB drive was formatted!
++ Executing: C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\grubinst.exe --skip-mbr-test \\.\PhysicalDrive2
++ Grub process returned 0
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\USBFILES\konexec32.exe copied to F:\konexec32.exe correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\USBFILES\konexec64.exe copied to F:\konexec64.exe correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\USBFILES\grldr copied to F:\grldr correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\USBFILES\menu.lst copied to F:\menu.lst correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\USBFILES\konboot.img copied to F:\konboot.img correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\USBFILES\konbootOLD.img copied to F:\konbootOLD.img correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\EFI\boot\bootx64.efi copied to F:\EFI\boot\bootx64.efi correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\EFI\boot\bootia32.efi copied to F:\EFI\boot\bootia32.efi correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\EFI\boot\KonBootDxeX64.efi copied to F:\EFI\boot\KonBootDxeX64.efi correctly!
++ File C:\Users\user\Desktop\Kon-Boot-for-Windows-2.5.0\Kon-Boot for Windows 2.5.0\kon-bootUSB\EFI\boot\KonBootDxeIA32.efi copied to F:\EFI\boot\KonBootDxeIA32.efi correctly!
++ All done! Kon-Boot was installed correctly!
++ Log session ended
